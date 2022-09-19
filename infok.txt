@@ -1,0 +1,6 @@
+1. from on import system
+2. system("cls")
+3. memóriakezelés, minden info változókban eltárolva
+4. a python - típusfüggetlen => dinamikus memóriakezelés
+5. 
+6.
