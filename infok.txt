@@ -2,5 +2,16 @@
 2. system("cls")
 3. memóriakezelés, minden info változókban eltárolva
 4. a python - típusfüggetlen => dinamikus memóriakezelés
-5. 
+5. hasznélt beépített típusok: str, int, float, list, bool
 6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
